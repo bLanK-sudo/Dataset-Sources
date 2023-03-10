@@ -7,7 +7,3 @@ A repository that has info on sources where we can get datasets
 - Kaggle
 - Data.gov.*
 - Datameet (Community)
-
-## Private Datasets
-
-## Personal Datasets
