@@ -13,3 +13,4 @@ A repository that has info on sources where we can get datasets
   - Gramener IMDb
   - Gramener Search
   - Gramener India Map
+- [How Stat : Cricket](http://www.howstat.com/cricket/home.asp)
