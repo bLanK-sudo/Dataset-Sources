@@ -10,5 +10,5 @@ A repository that has info on sources where we can get datasets
 - IMDb dataset
 - data.world
 - Gramener
-  *Gramener IMDb
-  *Gramener Search
+  -Gramener IMDb
+  -Gramener Search
