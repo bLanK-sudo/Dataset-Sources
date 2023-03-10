@@ -8,3 +8,4 @@ A repository that has info on sources where we can get datasets
 - Data.gov.*
 - Datameet (Community)
 - IMDb dataset
+- data.world
